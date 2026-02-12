@@ -1,6 +1,6 @@
 # software-engineering-docs
 
-Codex skill for generating and maintaining structured software engineering documentation from source code and existing docs.
+Skill for generating and maintaining structured software engineering documentation from source code and existing docs.
 
 ## Skill
 
