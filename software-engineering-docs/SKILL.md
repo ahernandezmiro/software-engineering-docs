@@ -1,9 +1,9 @@
 ---
-name: engineering-docs-framework
+name: software-engineering-docs
 description: Generate and maintain structured software engineering documentation for new or existing applications. Use when asked to create, update, or normalize requirements.md, use_cases.md, specification.md, architecture.md, uml.md, or tests.md from source code and existing docs, and when enforcing consistency and domain boundaries (for example, preventing endpoint-level details in high-level requirements).
 ---
 
-# Engineering Docs Framework
+# Software Engineering Docs
 
 ## Overview
 
