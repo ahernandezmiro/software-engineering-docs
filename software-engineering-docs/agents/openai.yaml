@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Docs Framework"
+  short_description: "Generate structured software engineering docs"
+  default_prompt: "Use $engineering-docs-framework to analyze this project and generate requirements.md, use_cases.md, specification.md, architecture.md, uml.md, and tests.md."
